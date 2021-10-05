@@ -1,7 +1,7 @@
 Article [link](https://www.sciencedaily.com/releases/2021/09/210914111252.htm)
 
-## Why I found this interesting
+## Jeff Barbieri jab1300 Response
 
-Although not entirely correlated with software engineering, I'm intrigued by the potential usage of this technology. Unlike previous efforts, they are able to integrate the technology for senses directly in to the object structure. This opens up a lot of new avenues for the usage of such material. 
+I really appreciated this article as someone particularly interested in interaction design. In my own experience in physical computing, working with sensors, prototyping etc., much of the cheap and accessible technology for physical interactions feels quite artificial. I really like the idea of someone creating a easily reproducible intelligent physical computing system using this 'smart 3D printing' technology. 
 
-I'm also intrigued by their software solution as to where to put the shear cells optimally. I feel like this is a really cool algorithmic question. 
+Thanks for sharing!
